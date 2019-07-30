@@ -1,0 +1,1 @@
+这是一个基于springboot和webSocket实现的简易的消息互通项目，初步学习使用stomp协议的webSocket。
